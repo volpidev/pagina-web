@@ -1,0 +1,19 @@
+body {
+    background: #fff;
+    font-family: verdana;
+    font-size: medium;
+}
+
+.photo {
+    border-radius: 30%;
+    border: 1x solid #505050;
+}
+
+#senna {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    color: green;
+}
